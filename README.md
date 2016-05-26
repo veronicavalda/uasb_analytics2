@@ -38,6 +38,6 @@ Para cada hallazgo se deberá generar un nuevo proceso en Rapidminer que será e
 
 Finalmente deberás construir tres archivos llamados "Resultado1.md", "Resultado2.md", "Resultado3.md",  que muestre todo lo descrito en el punto 3 y subirlos a tu cuenta github.
 
-####NOTA: Emplear lenguaje Markdown para construir los resultados y presentar las imagenes en cada archivo
-####TIP: Revisar repositorios de compañeros de la practica 2.1 "uasb_analytics"
+*NOTA: Emplear lenguaje Markdown para construir los resultados y presentar las imagenes en cada archivo*
+*TIP: Revisar repositorios de compañeros de la practica 2.1 "uasb_analytics"*
 
